@@ -1,3 +1,7 @@
+| Screenshot |
+|-------------|
+| ![Main screen Screenshot](1.png) |
+
 # Users App
 
 Application for viewing a list of users with detailed information.
