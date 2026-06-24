@@ -1,40 +1,40 @@
 # Users App
 
-Приложение для просмотра списка пользователей с детальной информацией.
+Application for viewing a list of users with detailed information.
 
-## Установка Java
+## Java Installation
 
-Для сборки проекта требуется Java 17 или выше. Установите JDK:
+Java 17 or higher is required to build the project. Install the JDK:
 
 ```bash
 brew install openjdk@17
 ```
 
-Затем создайте символическую ссылку:
+Then create a symbolic link:
 
 ```bash
 sudo ln -sfn /opt/homebrew/opt/openjdk@17/libexec/openjdk.jdk /Library/Java/JavaVirtualMachines/openjdk-17.jdk
 ```
 
-## Сборка проекта
+## Project Build
 
 ```bash
 ./gradlew assembleDebug
 ```
 
-## Языки поддержки
+## Supported Languages
 
 - English
 - Deutsch (German)
 - 中文 (Chinese)
 - Русский (Russian)
 
-## Структура проекта
+## Project Structure
 
-- `Constants.kt` - константы для API и Intent
-- `User.kt` - модели данных
-- `ApiClient.kt` - Retrofit клиент
-- `ApiService.kt` - API интерфейс
-- `MainActivity.kt` - экран списка пользователей
-- `DetailActivity.kt` - экран детальной информации
-- `strings.xml` - строки для всех языков
+- `Constants.kt` - constants for API and Intent
+- `User.kt` - data models
+- `ApiClient.kt` - Retrofit client
+- `ApiService.kt` - API interface
+- `MainActivity.kt` - users list screen
+- `DetailActivity.kt` - details screen
+- `strings.xml` - strings for all languages
