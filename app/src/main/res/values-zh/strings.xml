@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">用户应用</string>
+    <string name="title_users">用户</string>
+    <string name="title_details">详情</string>
+    <string name="back">返回</string>
+    <string name="loading">加载中...</string>
+    <string name="error_network">网络错误：%s</string>
+    <string name="error_loading">加载错误：%s</string>
+    <string name="error_unknown_user">未知用户</string>
+    <string name="retry">重试</string>
+    <string name="email_label">邮箱：%s</string>
+    <string name="phone_label">电话：%s</string>
+    <string name="address_label">地址：%s</string>
+    <string name="splash_app_name">用户应用</string>
+</resources>

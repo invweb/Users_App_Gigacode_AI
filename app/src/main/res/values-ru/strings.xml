@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Приложение для пользователей</string>
+    <string name="title_users">Пользователи</string>
+    <string name="title_details">Детали</string>
+    <string name="back">Назад</string>
+    <string name="loading">Загрузка...</string>
+    <string name="error_network">Ошибка сети: %s</string>
+    <string name="error_loading">Ошибка загрузки: %s</string>
+    <string name="error_unknown_user">Неизвестный пользователь</string>
+    <string name="retry">Повторить</string>
+    <string name="email_label">Электронная почта: %s</string>
+    <string name="phone_label">Телефон: %s</string>
+    <string name="address_label">Адрес: %s</string>
+    <string name="splash_app_name">Приложение для пользователей</string>
+</resources>

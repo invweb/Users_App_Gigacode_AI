@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Benutzer App</string>
+    <string name="title_users">Benutzer</string>
+    <string name="title_details">Details</string>
+    <string name="back">Zurück</string>
+    <string name="loading">Laden...</string>
+    <string name="error_network">Netzwerkfehler: %s</string>
+    <string name="error_loading">Ladefehler: %s</string>
+    <string name="error_unknown_user">Unbekannter Benutzer</string>
+    <string name="retry">Wiederholen</string>
+    <string name="email_label">E-Mail: %s</string>
+    <string name="phone_label">Telefon: %s</string>
+    <string name="address_label">Adresse: %s</string>
+    <string name="splash_app_name">Benutzer App</string>
+</resources>
