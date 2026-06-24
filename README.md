@@ -1,6 +1,6 @@
 | Screenshot |
 |-------------|
-| ![Main screen Screenshot](1.png) |
+| ![Main screen Screenshot](screen.png) |
 
 # Users App
 
