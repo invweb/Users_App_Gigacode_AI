@@ -70,7 +70,7 @@ fun UserListScreen(
     val snackbarHostState = remember { SnackbarHostState() }
     val scope = rememberCoroutineScope()
     
-    // Обработка эффектов из ViewModel
+    // Processing effects from the ViewModel
     LaunchedEffect(viewModel) {
         viewModel.effect.collect { effect ->
             when (effect) {
